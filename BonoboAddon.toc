@@ -1,4 +1,4 @@
-## Interface: 11.2.5.63906
+## Interface: 110005
 ## Title: Bonobo Addon
 ## Notes: Don't worry about it
 ## Author: Not Freya 
